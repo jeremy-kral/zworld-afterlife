@@ -1,5 +1,5 @@
 # zworld-afterlife
-Repository for all development towards the Gmod gamemode "zworld-afterlife", by the New Town Morrison community. Including config files, .db files, maps, etc.
+Repository for all development towards the zworld-afterlife server, hosted by the New Town Morrison community. Including config files, .db files, maps, etc.
 
 Disclaimer: This repository will NOT contain any contents from the offical gamemode developed by Nordahl. Such action would be considered "leaking", something I strictly condone. You can find the original gamemode, made for purchase, from his website in the following link... 
 
